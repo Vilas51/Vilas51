@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vilas51&label=Profile%20views&color=0e75b6&style=flat" alt="Vilas51" /> </p>
 
-- 🔭 I’m currently working on **QuillConnect**
+- A Competitive Programmer and Mern Stack Developer
 
-- 🌱 I’m currently learning **AI/ML**
+- I’m currently working on **QuillConnect**
+
+- I’m currently learning **AI/ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
